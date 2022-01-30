@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xinghuang077
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding and integrated circuits.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me xinghuang077@gmail.com
 - pip freeze shows packages YOU installed via pip.
 
