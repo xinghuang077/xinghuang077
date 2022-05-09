@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xinghuang077
+- 👋 Hi, I’m @xinghuang077. My github page is https://github.com/xinghuang077
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding and integrated circuits.
 - 💞️ I’m looking to collaborate on coding
