@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xinghuang077. My github page is https://github.com/xinghuang077
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding with C, C++, Python, Verilog, Veriloga, and Skill, etc.
 - 🌱 I’m currently learning coding and integrated circuits.
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me xinghuang077@gmail.com
